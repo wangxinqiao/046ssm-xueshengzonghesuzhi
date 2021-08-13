@@ -3,6 +3,7 @@
 
 
 #### 介绍
+````
 基于SSM的学生综合素质评价系统设计与实现，系统共分三种角色，包括管理员、教师、学生；
 管理员主要功能包括：
 权限中心：用户组权限控制、用户组信息管理；
@@ -17,8 +18,8 @@
 学生个人信息：个人信息修改；
 信息查询：活动记录查询、成绩查询、综合成绩查询；
 异议申报：学生异议申报；
-
-源码获取：[点此获取](http://www.shuyue.fun/?type=productinfo&id=147)
+````
+源码获取：[ **点此获取** ](http://www.shuyue.fun/?type=productinfo&id=147)
 
 #### 环境需要
 ```
@@ -48,12 +49,12 @@
 ```
 
 #### 运行截图
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110117_76adebd9_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110025_32eeecba_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110036_0b5ab652_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110045_36872ccc_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110055_1c4df8d0_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110106_ac7859a8_863230.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110117_76adebd9_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110128_95978279_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110139_56363edc_863230.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0315/110149_55540ce0_863230.png "屏幕截图.png")
